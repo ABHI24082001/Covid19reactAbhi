@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Covid19reactAbhi/static/css/main.0a4ec3f6.css",
+    "main.js": "/Covid19reactAbhi/static/js/main.46589ddc.js",
+    "static/media/hero-bg.jpg": "/Covid19reactAbhi/static/media/hero-bg.fb76c9762ace459bebed.jpg",
+    "index.html": "/Covid19reactAbhi/index.html",
+    "main.0a4ec3f6.css.map": "/Covid19reactAbhi/static/css/main.0a4ec3f6.css.map",
+    "main.46589ddc.js.map": "/Covid19reactAbhi/static/js/main.46589ddc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a4ec3f6.css",
+    "static/js/main.46589ddc.js"
+  ]
+}
